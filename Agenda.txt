@@ -30,8 +30,8 @@ Agenda:
 11:59  Dynamic Networks to Clouds: problem statements and IETF Solutions  (12 min)
            Linda Dunbar(Futurewei)
 
-12:11  TBD  
-           Luis M. Contreras (Telefonica) (12 min)
+12:11  TBD (12 min)
+           Luis M. Contreras (Telefonica) 
 
 12:23  Intent-Based Cloud Security System with Interface to Network Security Functions (I2NSF) (12 min)
            Jaehoon Paul Jeong(Sungkyunkwan University) or Diego R. Lopez(Telefónica)
