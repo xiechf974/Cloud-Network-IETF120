@@ -33,12 +33,12 @@ Agenda:
 12:11  TBD  
            Luis M. Contreras (Telefonica) (12 min)
 
-12:23: Intent-Based Cloud Security System with Interface to Network Security Functions (I2NSF) (12 min)
+12:23  Intent-Based Cloud Security System with Interface to Network Security Functions (I2NSF) (12 min)
            Jaehoon Paul Jeong(Sungkyunkwan University) or Diego R. Lopez(Telefónica)
 
-12:25  SONiC Phoenix Wing Initiative Intro  (12 min)
+12:35  SONiC Phoenix Wing Initiative Intro  (12 min)
            Eddie Ruan(Alibaba)
 
-12:47: Discussion  
+12:47  Discussion  
 
 13:00  End
