@@ -33,7 +33,7 @@ Agenda:
            Luis M. Contreras (Telefonica) 
 
 12:23  Intent-Based Cloud Security System with Interface to Network Security Functions (I2NSF) (12 min)
-           Jaehoon Paul Jeong(Sungkyunkwan University) or Diego R. Lopez(Telefónica)
+           Jaehoon Paul Jeong(Sungkyunkwan University) 
 
 12:35  SONiC Phoenix Wing Initiative Intro  (12 min)
            Eddie Ruan(Alibaba)
