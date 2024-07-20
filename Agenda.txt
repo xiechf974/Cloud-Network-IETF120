@@ -12,7 +12,6 @@ Location: Tennyson
 
 Chairs:
 Chongfeng Xie (Chongfeng.xie@foxmail.com)
-Diego R. Lopez (diego.r.lopez@telefonica.com)
 Linda Dunbar (linda.dunbar@futurewei.com)
 
 Join the meeting click on the link:
